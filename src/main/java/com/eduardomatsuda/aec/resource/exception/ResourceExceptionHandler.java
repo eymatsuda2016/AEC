@@ -1,4 +1,4 @@
-package com.eduardomatsuda.aec.resouce.exception;
+package com.eduardomatsuda.aec.resource.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

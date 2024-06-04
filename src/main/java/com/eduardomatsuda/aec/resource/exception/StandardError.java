@@ -1,4 +1,4 @@
-package com.eduardomatsuda.aec.resouce.exception;
+package com.eduardomatsuda.aec.resource.exception;
 
 import java.io.Serializable;
 

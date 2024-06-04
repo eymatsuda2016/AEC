@@ -1,4 +1,4 @@
-package com.eduardomatsuda.aec.resouce;
+package com.eduardomatsuda.aec.resource;
 
 import java.util.ArrayList;
 import java.util.List;
